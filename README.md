@@ -1,2 +1,3 @@
-# GPT-PyTorch
+# GPT PyTorch
+
 PyTorch implementation of GPT.
